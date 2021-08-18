@@ -1,0 +1,2 @@
+#!/bin/bash
+rm -fr my_first_directory
